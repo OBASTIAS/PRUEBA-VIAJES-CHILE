@@ -30,3 +30,10 @@ Esta página fue creada para satisfacer la necesidad de los viajeros tanto nacio
 *Ademas tiene una seccion de destacados, con 4 tarjetas informativas, todas estas responsivas. en esta seccion se integraron tooltips sobre cada imagen indicando la procedencia de las imagenes.
 *Se agrega un formulario de contacto, este fue integrado con typeform, el cual se diseño de acuerdo al diseño de la pagina, mostrando lugares tipicos de nuestro pais.
 *finalmente, se diseña el footer, en donde tenemos links de redes sociales, adicionalmente se complemento con popover que indican el nombre de la red social en caso de no identificarlas por el logo, ademas se incluye el nombre de la empresa, en donde si se hace click este nos devuelve al home de la pagina, esto tambien esta integrado con JS. (smooth scroll).
+
+
+*****************************************************************
+
+Ver más................................
+
+https://obastias.github.io/PRUEBA-VIAJES-CHILE/

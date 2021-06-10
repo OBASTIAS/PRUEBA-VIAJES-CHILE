@@ -10,6 +10,40 @@ header img {
     height: 100%;
 }
 
+.img-1 {
+    background-image: url(../img/card-img-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-2 {
+    background-image: url(../img/card-img-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-3 {
+    background-image: url(../img/card-img-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-4 {
+    background-image: url(../img/card-img-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ihn {
+    opacity: 0;
+    transition-duration: 0.5s;
+}
+
+.ihn:hover {
+    opacity: 1;
+    transition-duration: 0.5s;
+}
+
 .bg-black {
     background-color: #000000;
 }
@@ -43,4 +77,5 @@ nav a {
 
 .tooltip-inner {
     background-color: #17a2b8;
+    border-radius: 50%;
 }
