@@ -22,11 +22,55 @@ header img {
     object-fit: cover;
 }
 
+
+/* Genera una imagen de fondo que se difuma al pasar con el puntero sobre la imagen */
+
+.img-1 {
+    background-image: url(../img/card-img-1.1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
+}
+
+.img-2 {
+    background-image: url(../img/card-img-2.2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
+}
+
+.img-3 {
+    background-image: url(../img/card-img-3.3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
+}
+
+.img-4 {
+    background-image: url(../img/card-img-4.4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
+}
+
+
+/* efecto hover */
+
+.ihn {
+    opacity: 0;
+    transition-duration: 0.5s;
+}
+
+.ihn:hover {
+    opacity: 1;
+    transition-duration: 0.5s;
+}
+
 .bg-black {
     background-color: #000000;
 }
 
-footer a {
+footer h2 {
     color: #ffffff;
 }
 
