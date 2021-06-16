@@ -1,7 +1,7 @@
  # PRUEBA-VIAJES-CHILE
 ****************************************************************
 
-Tecnologías usadas
+Tecnologías usadas...
 La aplicación está estructurada utilizando:
 HTML5,
 jquery 3.6.0,
